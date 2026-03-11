@@ -15,7 +15,7 @@ The primary files contain detailed bibliographic data about research papers.
 |pauthor | peditor | ptitle | pyear | paddress | ppublisher | pseries | pid | pkey | ptype_id | pjournal_id | pbooktitle_id | pjournalfull_id | pbooktitlefull_id |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-Additional details are contained in the following .json fiels.
+Additional details are contained in the following .json files.
 
 `pbooktitle.json`
 
