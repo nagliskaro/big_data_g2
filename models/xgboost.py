@@ -21,12 +21,12 @@ key_to_index = {k: i for i, k in enumerate(df["pkey"])}
 
 # Training Random Forest
 features = [
-"title_sim",
-"author_jaccard",
-"year_diff",
-"same_journal",
-"same_booktitle",
-"same_ptype"
+    "title_sim",
+    "author_jaccard",
+    "year_diff",
+    "same_journal",
+    "same_booktitle",
+    "same_ptype"
 ]
 
 X = train_pairs[features].fillna(0)
